@@ -16,73 +16,48 @@
 ## 🚀 About Me
 
 - 💻 Senior Backend Engineer focused on **Golang**
-- ⚙️ Love building **scalable APIs, microservices & distributed systems**
+- ⚙️ Build **scalable APIs, microservices & distributed systems**
 - ☁️ Hands-on with **AWS, Docker, Kubernetes**
 - 🧠 Strong in **LLD + HLD**, concurrency & performance tuning
-- 📚 Currently sharpening **advanced system design & Go internals**
+- 📚 Learning deeper **system design & Go internals**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-### Backend & Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![REST](https://img.shields.io/badge/REST-02569B?style=flat)
-
-### DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-
----
-
-## 📌 What I Build
-
-- 🔐 Authentication & Authorization systems
-- 🚦 Rate limiters, circuit breakers, caching layers
-- 📦 Scalable backend services
-- 🧩 Low-Level Design (LLD) implementations in Go
-- 🌐 High-Level Design (HLD) for real-world systems
+**Languages:** Go, C++, SQL  
+**Databases:** PostgreSQL, Redis  
+**Backend:** REST APIs, Microservices  
+**Cloud & DevOps:** AWS, Docker, Kubernetes  
 
 ---
 
 ## 📂 Featured Projects
 
-🔹 **URL Shortener (Golang)**  
-Scalable URL shortening service with caching & database persistence.
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=miank1&repo=ECommerceBackend&theme=tokyonight&hide_border=true&cache_seconds=86400"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=miank1&repo=Golang&theme=tokyonight&hide_border=true&cache_seconds=86400"
+  />
+</p>
 
-🔹 **Leaderboard Service**  
-High-performance leaderboard using Redis + Go.
-
-🔹 **Notification Service**  
-Event-driven notification system with extensible architecture.
-
-🔹 **System Design Practice**  
-Parking Lot, Vending Machine, Task Manager, Stack Overflow clone.
-
-> More projects coming 🚀
+<p align="center">
+  <a href="https://github.com/miank1/ECommerceBackend"><b>ECommerce Backend</b></a> •
+  <a href="https://github.com/miank1/Golang"><b>Golang</b></a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=miank1&theme=tokyonight&hide_border=true"
-    height="165"
+    width="500"
   />
- 
 </p>
-
-
-
 
 ---
 
@@ -101,7 +76,7 @@ Parking Lot, Vending Machine, Task Manager, Stack Overflow clone.
 
 ## ✨ Fun Fact
 
-> I enjoy turning **system design interview questions into production-ready Go code**.
+> I enjoy turning **system design interview questions into real, working Go code**.
 
 ---
 
