@@ -7,15 +7,19 @@
   </a>
 </p>
 
+<p align="center">
+  📄 <a href="https://drive.google.com/drive/folders/1mxVZFrc-XsUK2dKPWPWu3fV82sdPC5mm" target="_blank"><b>View Resume</b></a>
+</p>
+
 ---
 
 ## 🚀 About Me
 
-- 💻 Backend Engineer with strong focus on **Golang**
-- ⚙️ Love building **scalable APIs, microservices & system designs**
+- 💻 Senior Backend Engineer focused on **Golang**
+- ⚙️ Love building **scalable APIs, microservices & distributed systems**
 - ☁️ Hands-on with **AWS, Docker, Kubernetes**
-- 🧠 Big on **LLD + HLD**, concurrency & performance tuning
-- 📚 Currently sharpening **advanced system design & Golang internals**
+- 🧠 Strong in **LLD + HLD**, concurrency & performance tuning
+- 📚 Currently sharpening **advanced system design & Go internals**
 
 ---
 
@@ -51,7 +55,7 @@
 ## 📂 Featured Projects
 
 🔹 **URL Shortener (Golang)**  
-Scalable URL shortening service with caching & DB persistence.
+Scalable URL shortening service with caching & database persistence.
 
 🔹 **Leaderboard Service**  
 High-performance leaderboard using Redis + Go.
@@ -69,11 +73,8 @@ Parking Lot, Vending Machine, Task Manager, Stack Overflow clone.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miank1&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miank1&layout=compact&theme=tokyonight" alt="languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=miank1&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miank1&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -101,7 +102,7 @@ Parking Lot, Vending Machine, Task Manager, Stack Overflow clone.
 
 ## ✨ Fun Fact
 
-> I enjoy turning **system design interviews into actual working code**.
+> I enjoy turning **system design interview questions into production-ready Go code**.
 
 ---
 
