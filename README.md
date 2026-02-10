@@ -34,21 +34,12 @@
 
 ## 📂 Featured Projects
 
-## 📂 Featured Projects
+- **ECommerce Backend (Golang)**  
+  https://github.com/miank1/ECommerceBackend
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=miank1&repo=ECommerceBackend&theme=tokyonight&hide_border=true"
-    width="500"
-  />
-</p>
+- **Golang**  
+  https://github.com/miank1/Golang
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=miank1&repo=Golang&theme=tokyonight&hide_border=true"
-    width="500"
-  />
-</p>
 
 
 ---
