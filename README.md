@@ -88,13 +88,6 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/miank1  
 - 🐦 Twitter: https://twitter.com/miank1  
 
----
-
-## ========================
-## ✨ FUN FACT
-## ========================
-
-> I enjoy turning **system design interview questions into production-ready Go code**.
 
 ---
 
