@@ -34,19 +34,22 @@
 
 ## 📂 Featured Projects
 
+## 📂 Featured Projects
+
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=miank1&repo=ECommerceBackend&theme=tokyonight&hide_border=true&cache_seconds=86400"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=miank1&repo=Golang&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=miank1&repo=ECommerceBackend&theme=tokyonight&hide_border=true"
+    width="500"
   />
 </p>
 
 <p align="center">
-  <a href="https://github.com/miank1/ECommerceBackend"><b>ECommerce Backend</b></a> •
-  <a href="https://github.com/miank1/Golang"><b>Golang</b></a>
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=miank1&repo=Golang&theme=tokyonight&hide_border=true"
+    width="500"
+  />
 </p>
+
 
 ---
 
