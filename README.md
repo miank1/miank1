@@ -78,10 +78,7 @@ Parking Lot, Vending Machine, Task Manager, Stack Overflow clone.
     src="https://streak-stats.demolab.com?user=miank1&theme=tokyonight&hide_border=true"
     height="165"
   />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=miank1&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    height="165"
-  />
+ 
 </p>
 
 
