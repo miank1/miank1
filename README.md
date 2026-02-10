@@ -72,18 +72,18 @@ Parking Lot, Vending Machine, Task Manager, Stack Overflow clone.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=miank1&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miank1&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=miank1&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=miank1&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=miank1&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    height="165"
+  />
 </p>
+
 
 ---
 
