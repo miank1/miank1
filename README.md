@@ -48,8 +48,8 @@ Concepts:       Rate Limiting, Caching, Worker Pools,
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[miank1_](https://github.com/miank1_)&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[miank1_](https://github.com/miank1_)&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=[miank1_](https://github.com/miank1)&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[miank1_](https://github.com/miank1)&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -96,7 +96,7 @@ Concepts:       Rate Limiting, Caching, Worker Pools,
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/miank1_
+- GitHub: https://github.com/miank1
 - LinkedIn: https://www.linkedin.com/in/toankitmishra/
 
 ---
