@@ -1,115 +1,53 @@
-# Hey, I'm Ankit 👋
+# Hi, I’m Ankit Mishra 👋
 
-> Backend • Distributed Systems • Concurrency • System Design
+A backend engineer who enjoys building scalable systems in **Go**, especially microservices, APIs, concurrency-heavy services, and production-ready backend tooling.
 
-I design and build scalable backend systems in **Go**, with a strong focus on distributed systems, performance, and clean architecture.
+I like learning by building — from Go fundamentals to distributed systems, databases, caching, and system design.
 
-I enjoy solving real-world engineering problems — from designing rate limiters and worker pools to building scalable microservices and distributed platforms.
+## What I do
 
----
+* Backend development with **Golang**
+* Microservices and API design
+* PostgreSQL, Redis, Docker, Kubernetes
+* AWS-based backend systems
+* Testing, observability, and performance tuning
 
-## ⚡ About Me
+## Featured work
 
-- 🧠 Backend Engineer (5+ years)
-- 🏗️ Design-first mindset (HLD + LLD)
-- 🧵 Deep focus on Go concurrency patterns
-- ☁️ Cloud-native systems (AWS)
-- 📈 Performance, caching & scalability enthusiast
-- 🔍 Strong interest in system internals
+* Built Go microservices for lending and banking workflows
+* Designed scalable backend services for order, payment, user, cart, and inventory flows
+* Worked on high-traffic systems with low-latency requirements
+* Built monitoring and alerting services for cloud workloads
+* Created hands-on Golang practice and learning projects
 
----
+## Learning path
 
-## 🚀 What I'm Currently Working On
+* Go fundamentals
+* Data structures and collections
+* Pointers, structs, interfaces
+* Error handling and testing
+* Concurrency patterns
+* Generics
+* Design patterns
+* Distributed systems basics
 
-- Building scalable microservices in Go
-- Practicing advanced concurrency patterns
-- Designing distributed systems from scratch
-- Preparing for senior backend/system design interviews
-- Implementing production-grade architecture patterns
+## Tech stack
 
----
+`Go` `Gin` `PostgreSQL` `Redis` `Docker` `Kubernetes` `AWS` `gRPC` `REST` `Git` `GORM` `Kafka` `Prometheus`
 
-## 🛠️ Tech Stack
+## Current focus
 
-```bash
-Languages:      Go, TypeScript, JavaScript
-Backend:        Gin, REST APIs, Microservices Architecture
-Database:       PostgreSQL, Redis
-Cloud:          AWS (Lambda, EC2, S3, IAM)
-DevOps:         Docker, Kubernetes, CI/CD
-Observability:  Prometheus, Metrics, Logging
-Concepts:       Rate Limiting, Caching, Worker Pools,
-                Distributed Locks, Graceful Shutdown,
-                Load Balancing, Circuit Breakers
-```
+* Writing clean and scalable backend code
+* Sharpening system design skills
+* Building stronger production-grade Go services
+* Exploring better architecture, testing, and observability
 
----
+## GitHub stats
 
-## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=miank1\&show_icons=true\&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miank1\&layout=compact\&theme=default)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miank1&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miank1&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+## Let’s connect
 
----
-
-## 🧠 Engineering Philosophy
-
-- Prefer clarity over cleverness  
-- Optimize only after measuring  
-- Design systems that fail gracefully  
-- Keep components composable and observable  
-- Build for scale, but start simple  
-
----
-
-## 🏗️ Highlight Projects
-
-### 🔗 Scalable URL Shortening Service
-- Built in Go
-- Designed for horizontal scaling
-- Implemented rate limiting & caching
-- Focused on performance & reliability
-
-### 🧵 Concurrency Pattern Playground
-- Worker pools
-- Fan-in / Fan-out
-- Context cancellation
-- Graceful shutdown handling
-
-### 🏪 Microservices Architecture Practice
-- Service-to-service communication
-- API gateway pattern
-- Redis caching layer
-- AWS deployment ready
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miank1&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/miank1
-- LinkedIn: https://www.linkedin.com/in/toankitmishra/
-
----
-
-## ⚙️ Terminal Mindset
-
-```
-$ build systems
-$ measure performance
-$ optimize bottlenecks
-$ scale horizontally
-```
-
----
-
-> “Build systems that scale. Build skills that compound.”
+* GitHub: [@miank1](https://github.com/miank1)
+* LinkedIn: [Ankit Mishra](https://www.linkedin.com/in/toankitmishra/)
